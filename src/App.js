@@ -1,10 +1,11 @@
+// src/App.js
 import React from 'react';
 
 function App() {
   return (
     <div>
-      <h1>Hi, I'm [Your Name]</h1>
-      <img src="path/to/your/image.jpg" alt="Image of [Your Name]" />
+      <h1>Hi, I'm Tim Barasa</h1>
+      <img src="Tim.jpg" alt="Image of [Baros]" />
       <h2>About Me</h2>
       <p>This is my biography.</p>
       <a href="https://github.com/your-username">GitHub</a>
